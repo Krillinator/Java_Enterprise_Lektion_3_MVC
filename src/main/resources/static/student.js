@@ -1,4 +1,3 @@
-function test() {
-
-    return ""
+function displayAlert() {
+    alert("Does this work?")
 }
